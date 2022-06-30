@@ -1,1 +1,1 @@
-# snrwestfal.github.io
+# SnrWestfal.github.io
