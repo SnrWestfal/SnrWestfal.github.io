@@ -1,5 +1,5 @@
 (function newFact() {
-    const facts = ['Технологии, которые я изучил', 'Frontend<br> HTML CSS JavaScript NodeJS React TailwindCSS Figma', 'Backend<br> Python Django PHP RestAPI MySQL RabbitMQ'];
-    const randomFact = Math.floor(Math.random() * facts.length);
+    const skills = ['Технологии, которые я изучил', 'Frontend<br> HTML CSS JavaScript NodeJS React TailwindCSS Figma'];
+    const randomFact = Math.floor(Math.random() * skills.length);
     document.getElementById('factDisplay').innerHTML = facts[randomFact];
   })();
